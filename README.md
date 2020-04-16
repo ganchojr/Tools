@@ -1,2 +1,2 @@
 # Tools
-Simple tools built in python, for developing skills.
+Simple tools built in python, for skills development.
