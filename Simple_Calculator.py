@@ -1,6 +1,6 @@
 print("-" * 50)
 print(" ")
-print("\t\tSimple Calculator by @GanchoJr")
+print("\t\tSimple Calculator by @var-log")
 print(" ")
 print("-" * 50)
 
