@@ -4,7 +4,7 @@ import pyperclip
 
 print("-" * 50)
 print(" ")
-print("\t\tPassword Generator by @GanchoJr")
+print("\t\tPassword Generator by @var-log")
 print(" ")
 print("-" * 50)
 
