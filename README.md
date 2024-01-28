@@ -7,3 +7,4 @@ Apps available:
 - Simple_Calculator.py: Simple calculator with four operators. v1   
 - Tag_reader.py: Audio file tag reader. v1   
 - Port_Scanner.py: Scans for open ports on a network. v1
+- Cipher.py: Caesar Cipher for encoding/decoding a message. v1
